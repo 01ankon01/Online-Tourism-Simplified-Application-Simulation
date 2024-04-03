@@ -70,3 +70,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For any inquiries or support, please [open an issue](https://github.com/01ankon01/online-tourism-application/issues) on GitHub.
+
+## Here are some pictures
+
+![Online-Tourism-Simplified-Application-Simulation
+](1.png)
+
