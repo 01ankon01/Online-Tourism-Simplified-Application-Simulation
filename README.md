@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspiration: MakeMyTrip
-- Technologies: C++, TCP, UDP
+- Technologies: C, TCP, UDP, Socket Programming
 
 ## Support
 
